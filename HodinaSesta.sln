@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkazkaLinq", "UkazkaLinq\UkazkaLinq.csproj", "{C51DBC47-CBA4-43FD-8B74-E5ECF2017C3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenerovanaCisla", "GenerovanaCisla\GenerovanaCisla.csproj", "{D0AB09D3-A45E-4CB7-9DBE-9AED0D50D7C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C51DBC47-CBA4-43FD-8B74-E5ECF2017C3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51DBC47-CBA4-43FD-8B74-E5ECF2017C3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51DBC47-CBA4-43FD-8B74-E5ECF2017C3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51DBC47-CBA4-43FD-8B74-E5ECF2017C3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0AB09D3-A45E-4CB7-9DBE-9AED0D50D7C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0AB09D3-A45E-4CB7-9DBE-9AED0D50D7C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0AB09D3-A45E-4CB7-9DBE-9AED0D50D7C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0AB09D3-A45E-4CB7-9DBE-9AED0D50D7C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A4AD515-F0A0-401E-BC55-1BE6936004A0}
+	EndGlobalSection
+EndGlobal
